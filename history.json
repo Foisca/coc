@@ -1,0 +1,31 @@
+{
+  "marketplace": {
+    "%2Fhome%2Ffoisca%2F": {
+      "config": [
+        "todo"
+      ]
+    },
+    "%2Fhome%2Ffoisca%2Fgo%2Fsrc": [
+      "golup q"
+    ]
+  },
+  "diagnostics": {
+    "%2Fhome%2Ffoisca%2F": {
+      "config%2Fnvim": [
+        "w"
+      ]
+    }
+  },
+  "explorerFiles": {
+    "%2Fhome%2Ffoisca%2F": {
+      "config%2Fnvim%2Fautoload": [
+        "plu"
+      ]
+    }
+  },
+  "commands": {
+    "%2Fhome%2Ffoisca%2FDesktop": [
+      "jj"
+    ]
+  }
+}

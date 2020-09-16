@@ -1,0 +1,338 @@
+e5b12f398e9d993f60f4daf684a72433|file:///home/foisca/Documents/cpp/linkedlist/main.cpp|6|1|V|cpp
+			traverseVector(n);
+072ee8767ee42f6e5aa262f73c878baa|file:///home/foisca/Documents/cpp/linkedlist/main.cpp|5|5|V|cpp
+	    vector<int> n = { 1, 2, 3, 4, 5 };
+0eaa46c12c8190dcb4e4b46838220683|file:///home/foisca/Documents/cpp/linkedlist/main.cpp|1|11|v|cpp
+	functions
+d48e37bc19b9fe2c72923c30fd7a4152|file:///home/foisca/Documents/cpp/linkedlist/main.cpp|5|3|v|cpp
+	linked
+384c6c723a532a01dd6bfcc970de49ca|file:///home/foisca/Documents/cpp/2048/main.cpp|18|1|v|cpp
+	#define    
+c1949c81eeb329b2312f8e3a4d8d1120|file:///home/foisca/Documents/cpp/2048/main.cpp|25|7|V|cpp
+						 j
+964ec97b583cb33ad1e11c11c3eb725d|file:///home/foisca/Documents/cpp/2048/main.cpp|24|31|v|cpp
+	retn status;
+6e67dc1aad62522cdde008030d522a63|file:///home/foisca/Documents/cpp/2048/main.cpp|37|1|V|cpp
+			}else if(ch == 'S'){
+				rotate();
+				rotate();
+				rotate();
+				updated = moveLeft();
+				rotate();
+			}
+2ce2aa38dbc7564a207b2395a66483c0|file:///home/foisca/Documents/cpp/2048/main.cpp|47|4|V|cpp
+				rotate();
+4f2fbf2e55136fae7a172c6dae0d13be|file:///home/foisca/Documents/cpp/2048/main.cpp|50|4|V|cpp
+					
+db055267170d4cb929cef5944ce89bfe|file:///home/foisca/Documents/cpp/2048/main.cpp|43|5|V|cpp
+					}
+e2942a04780e223b215eb8b663cf5353|file:///home/foisca/Documents/cpp/2048/main.cpp|76|20|v|cpp
+	count
+0f385f90cb59d5b7c4a031d641d232b0|file:///home/foisca/Documents/sh/test.sh|1|1|V|sh
+	echo "hello world"
+72c2bf7dd96ea47888b6ce99997bf8f4|file:///home/foisca/Documents/sh/test.sh|3|1|v|sh
+	echo "A=$A"
+0db9ac7186d988fa1f30113499838f1d|file:///home/foisca/Documents/sh/test.sh|7|1|V|sh
+	echo "B=$B"
+7037c438ac331f122a7054c636e7945f|file:///home/foisca/Documents/sh/test.sh|6|1|V|sh
+	readonly B=2
+7c5e8c38ecd618124c771c18a0aa640b|file:///home/foisca/Documents/sh/test.sh|2|1|V|sh
+	:>>!
+0fea1189f998de7fef1b7f634ef5afb0|file:///home/foisca/Documents/sh/test.sh|1|1|^v|sh
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+f46e2d3f5f3ed2f93bae1ee4cdd4ea68|file:///home/foisca/Documents/sh/positionpara.sh|1|1|V|sh
+	#!/bin/bash
+0015dcbf617efcf4be4700ace4a0bd89|file:///home/foisca/Documents/sh/perVar.sh|1|1|V|sh
+	ithinji:wq
+09b9b24b2c16a5027a27d3e7c835fc36|file:///home/foisca/Documents/sh/perVar.sh|7|1|V|sh
+	echo "result = $0"
+3304bf10ec93c4ca2f14e09edf37a4fe|file:///home/foisca/Documents/sh/perVar.sh|5|3|v|sh
+	mShell
+b29ef6f611982d23b890831920e3fbac|file:///home/foisca/Documents/sh/perVar.sh|5|1|v|sh
+	sudo 
+87731330693d83883942218c8a45e0e2|file:///home/foisca/Documents/sh/demo.sh|5|1|V|sh
+	echo "RESULT1=$RESULT1"
+1ba6320f4530375dc6a28b8149c27ad3|file:///home/foisca/Documents/sh/demo.sh|13|11|v|sh
+	expr 2 + 3 
+7ff3b86fdc20402886d2022c73942e93|file:///home/foisca/Documents/sh/demo.sh|17|1|V|sh
+	#solve two paras asumption
+6c8985e15799a38582873d4453e50ae2|file:///home/foisca/Documents/sh/judge.sh|3|1|V|sh
+	if [ "outdated-ch""ckr" ]
+1408cdee13bb17321d1d02189ae118f8|file:///home/foisca/Documents/sh/judge.sh|5|1|V|sh
+	else echo "not equal"
+180fa7340d1ded94607f1d2bbac65387|file:///home/foisca/Documents/sh/judge.sh|3|1|V|sh
+	if [ "ok" = "ok" ]
+	then echo "equal"
+	fi
+465289687a70db7aa7217cc240c29f0f|file:///home/foisca/Documents/sh/judge.sh|8|12|v|sh
+	equal
+86996444955428b3c5131b8a0bb34f68|file:///home/foisca/Documents/sh/judge.sh|7|1|V|sh
+	if [ 23 -gt 22 ]
+	then echo "larger"
+	fi
+647b39a307383aa613a2e41cc4789955|file:///home/foisca/Documents/sh/judge.sh|11|5|v|sh
+	 23 -gt 22 
+ecdda6d49d1e74850d2a9ec7f22c1907|file:///home/foisca/Documents/sh/judge.sh|12|12|v|sh
+	larger
+3ddddb58b77a059f4083d44a605d1d03|file:///home/foisca/Documents/sh/testfor.sh|4|1|V|sh
+	for i in "$*"
+	do
+		echo "the num is $i"
+	done
+c6ea64b9bb063f0cd319779eef9425d8|file:///home/foisca/Documents/sh/testfor.sh|3|1|V|sh
+	#use $*
+	for i in "$*"
+	do
+		echo "the num is $i"
+	done
+75f53d4207d73a2adcaba5ad82a120b7|file:///home/foisca/Documents/sh/testread.sh|3|1|V|sh
+	read -p "Please enter one number=" NUM1
+	echo "You entered num1=$NUM1"
+	
+4e95a5e15dd2cc6e3f9d57dd8332504c|file:///home/foisca/.zshrc|178|1|^v|zsh
+	#
+	#
+	#
+	#
+fdb9cee7373e0a7b8766659dd1f3a9e6|file:///home/foisca/.zshrc|183|1|^v|zsh
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+	#
+587560e37c2e4137c0fcf32cf50cbee9|file:///home/foisca/.zshrc|195|2|V|zsh
+	 }}}
+68beb7a30ae3c6a45bf23be7ec9e9105|file:///home/foisca/.zshrc|120|2|V|zsh
+	{{{
+	 #彩色补全菜单
+	 eval $(dircolors -b)
+	 export ZLSCOLORS="${LS_COLORS}"
+	 zmodload zsh/complist
+	 zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+	 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
+	
+	 #修正大�
+	 zstyle ':completion:*' matcher-list '' 'm:{a-zA-Z}={A-Za-z}'
+	 #错误校正
+	 zstyle ':completion:*' completer _complete _match _approximate
+	 zstyle ':completion:*:match:*' original only
+	 zstyle ':completion:*:approximate:*' max-errors 1 numeric
+	
+	 #kill 命令补全
+	 compdef pkill=kill
+	 compdef pkill=killall
+	 zstyle ':completion:*:*:kill:*' menu yes select
+	 zstyle ':completion:*:*:*:*:processes' force-list always
+	 zstyle ':completion:*:processes' command 'ps -au$USER'
+	
+	 #补全类型提示分组
+	 zstyle ':completion:*:matches' group 'yes'
+	 zstyle ':completion:*' group-name ''
+	 zstyle ':completion:*:options' description 'yes'
+	 zstyle ':completion:*:options' auto-description '%d'
+	 zstyle ':completion:*:descriptions' format $'\e[01;33m -- %d --\e[0m'
+	 zstyle ':completion:*:messages' format $'\e[01;35m -- %d --\e[0m'
+	 zstyle ':completion:*:warnings' format $'\e[01;31m -- No Matches Found --\e[0m'
+	 zstyle ':completion:*:corrections' format $'\e[01;32m -- %d (errors: %e) --\e[0m'
+	
+	 # cd ~ 补全顺序
+	 zstyle ':completion:*:-tilde-:*' group-order 'named-directories' 'path-directories' 'users' 'expand'
+	 }}}
+	
+	
+	 ##行编辑高亮模式 {{{
+	 # Ctrl+@ 设置标记，标记和光标点之间为 region
+	 zle_highlight=(region:bg=magenta #选中区域
+	 special:bold      #特殊字符
+	 isearch:underline)#搜索时使用的关键字
+	 #}}}
+	
+	 ##空行(光标在行首)补全 "cd " 
+	 {{{
+	 user-complete(){
+	 case $BUFFER in
+	 "" )                       # 空行填入 "cd "
+	 BUFFER="cd "
+	 zle end-of-line
+	 zle expand-or-complete
+	 ;;
+	 "cd --" )                  # "cd --" 替换为 "cd +"
+	 BUFFER="cd +"
+	 zle end-of-line
+	 zle expand-or-complete
+	 ;;
+	 "cd +-" )                  # "cd +-" 替换为 "cd -"
+	 BUFFER="cd -"
+	 zle end-of-line
+	 zle expand-or-complete
+	 ;;
+	 * )
+	 zle expand-or-complete
+	 ;;
+	 esac
+	 }
+	 zle -N user-complete
+	 bindkey "\t" user-complete
+	 }}}
+	
+	 }
+	 }}}
+	 }}}]]']]']]']]'
+	 }}}
+dd5dc04d6641339eb87678e04d1087e7|file:///home/foisca/.zshrc|1|1|V|zsh
+	# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+	# Initialization code that may require console input (password prompts, [y/n]
+	# confirmations, etc.) must go above this block; everything else may go below.
+	if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+	  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+	fi
+	
+	# If you come from bash you might have to change your $PATH.
+	# export PATH=$HOME/bin:/usr/local/bin:$PATH
+	
+	# Path to your oh-my-zsh installation.
+	export ZSH="/home/foisca/.oh-my-zsh"
+	
+	# Set name of the theme to load --- if set to "random", it will
+	# load a random theme each time oh-my-zsh is loaded, in which case,
+	# to know which specific one was loaded, run: echo $RANDOM_THEME
+	# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+	ZSH_THEME="robbyrussell"
+	
+	#ZSH_THEME="powerlevel10k/powerlevel10k"
+	
+	# Set list of themes to pick from when loading at random
+	# Setting this variable when ZSH_THEME=random will cause zsh to load
+	# a theme from this variable instead of looking in $ZSH/themes/
+	# If set to an empty array, this variable will have no effect.
+	# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+	
+	# Uncomment the following line to use case-sensitive completion.
+	# CASE_SENSITIVE="true"
+	
+	# Uncomment the following line to use hyphen-insensitive completion.
+	# Case-sensitive completion must be off. _ and - will be interchangeable.
+	# HYPHEN_INSENSITIVE="true"
+	
+	# Uncomment the following line to disable bi-weekly auto-update checks.
+	# DISABLE_AUTO_UPDATE="true"
+	
+	# Uncomment the following line to automatically update without prompting.
+	# DISABLE_UPDATE_PROMPT="true"
+	
+	# Uncomment the following line to change how often to auto-update (in days).
+	# export UPDATE_ZSH_DAYS=13
+	
+	# Uncomment the following line if pasting URLs and other text is messed up.
+	# DISABLE_MAGIC_FUNCTIONS="true"
+	
+	# Uncomment the following line to disable colors in ls.
+	# DISABLE_LS_COLORS="true"
+	
+	# Uncomment the following line to disable auto-setting terminal title.
+	# DISABLE_AUTO_TITLE="true"
+	
+	# Uncomment the following line to enable command auto-correction.
+	# ENABLE_CORRECTION="true"
+	
+	# Uncomment the following line to display red dots whilst waiting for completion.
+	# COMPLETION_WAITING_DOTS="true"
+	
+	# Uncomment the following line if you want to disable marking untracked files
+	# under VCS as dirty. This makes repository status check for large repositories
+	# much, much faster.
+	# DISABLE_UNTRACKED_FILES_DIRTY="true"
+	
+	# Uncomment the following line if you want to change the command execution time
+	# stamp shown in the history command output.
+	# You can set one of the optional three formats:
+	# "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
+	# or set a custom format using the strftime function format specifications,
+	# see 'man strftime' for details.
+	# HIST_STAMPS="mm/dd/yyyy"
+	
+	# Would you like to use another custom folder than $ZSH/custom?
+	# ZSH_CUSTOM=/path/to/new-custom-folder
+	
+	# Which plugins would you like to load?
+	# Standard plugins can be found in $ZSH/plugins/
+	# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+	# Example format: plugins=(rails git textmate ruby lighthouse)
+	# Add wisely, as too many plugins slow down shell startup.
+	plugins=(git)
+	
+	source $ZSH/oh-my-zsh.sh
+	plugins=(git zsh-autosuggestions zsh-syntax-highlighting pip)
+	
+	
+	# User configuration
+	
+	# export MANPATH="/usr/local/man:$MANPATH"
+	
+	# You may need to manually set your language environment
+	# export LANG=en_US.UTF-8
+	
+	# Preferred editor for local and remote sessions
+	# if [[ -n $SSH_CONNECTION ]]; then
+	#   export EDITOR='vim'
+	# else
+	#   export EDITOR='mvim'
+	# fi
+	
+	# Compilation flags
+	# export ARCHFLAGS="-arch x86_64"
+	
+	# Set personal aliases, overriding those provided by oh-my-zsh libs,
+	# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+	# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+	# For a full list of active aliases, run `alias`.
+	#
+	# Example aliases
+	# alias zshconfig="mate ~/.zshrc"
+	# alias ohmyzsh="mate ~/.oh-my-zsh"
+	
+	alias vim="nvim"
+	source ~/powerlevel10k/powerlevel10k.zsh-theme
+	
+	# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+	[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+	
+	
+	
+58599aaa97ab2248a40e76465ca8d6e2|file:///home/foisca/.zshrc|102|6|V|zsh
+	     . /usr/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
+1545e945d5c3e7d9fa642d0a57fc8432|file:///home/foisca/.zshrc|281|5|V|zsh
+	     
+8c63687f3353fc809165fd84e730e1e5|file:///home/foisca/.zshrc|280|1|V|zsh
+	     }
+d7e6acf2ed0603d3c86240c30a6e0238|file:///home/foisca/.zshrc|279|6|V|zsh
+	     }}}
+c4a5d20c39647d00c34edacdbc99c6df|file:///home/foisca/.zshrc|284|4|V|zsh
+	   )
+37c0a5c9ec2b883008badadf335d4ec9|file:///home/foisca/.zshrc|279|1|V|zsh
+	     }}}]]']]']]']]'
+	    }}}
+	     }}}
+	     }}}
+	     }}}
+8d5ee97da58cee320783fa4b8d006b2a|file:///home/foisca/Documents/sh/multiplicationTable.sh|7|3|V|sh
+			echo "%d*%d"
+5d4c0fa67fda1e229750b3bf07a4d811|file:///home/foisca/go/src/hellogo/main.go|6|15|v|go
+	你好，欢迎来到超哥的golang世界
+92bfef6dd74c131e5e24c06d2d3173d4|file:///home/foisca/go/src/hellogo/main.go|6|39|v|go
+	 wolord
+5acd02cdab892d3d9272be86215784db|file:///home/foisca/Documents/python/hello.py|1|1|V|python
+	for i in (1,10)
+641f28a60a2d9fd9474cb7fd8e5dc5f7|file:///home/foisca/Documents/python/hello.py|1|5|V|python
+	    print(i)
